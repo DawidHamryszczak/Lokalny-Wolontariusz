@@ -1,2 +1,2 @@
 # Lokalny-Wolontariusz
- PROJEKT wykonany w trakcie uczęstnictwa w konkursie HackHeroes.  Projekt wykonany w Flutterze. Baza danych to: PHP, MYSQL Twórcy to: Dominik Gąsior, Dawid Hamryszczak Cel projektu: Rozpowszechnianie pomocy w ramach wolontariatu. Możliwość łatwego znalezienia ogłoszeń, w których potrzebna jest pomoc. Aplikacja jest w pełni dynamiczna. Możliwość tworzenia kont, system logowania.
+ PROJECT made during participation in the HackHeroes competition. Project made in Flutter. The creators are: Dominik Gąsior, Dawid Hamryszczak. Aim of the project: Disseminating help as part of volunteering. The ability to easily find ads where you need help. The application is fully dynamic. Ability to create accounts, login system.
